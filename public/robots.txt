@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://finera-com-0b658b97.zappy5.app/sitemap.xml
