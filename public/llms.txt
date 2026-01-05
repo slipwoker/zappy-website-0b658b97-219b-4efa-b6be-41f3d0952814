@@ -1,6 +1,4 @@
-# Finera.com — Generative Engine Optimization Map
-
-> A Financial Technology business.
+# Business — Generative Engine Optimization Map
 
 ---
 
@@ -40,17 +38,7 @@ Information about WCAG compliance and accessibility features.
 
 # Business Context (for LLM understanding)
 
-## About Finera.com
-Finera.com is a business in the Financial Technology industry.
-
-## Target Audience
-- Tech-Savvy Financial Advisors
-- Corporate CFOs
-- Fintech Startup Enthusiasts
-
-## Industry
-Financial Technology
-
+## About Business
 ---
 
 # Additional Resources
